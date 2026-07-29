@@ -1,0 +1,269 @@
+Type,Session Code,Role,Name,Email,Department
+UAT,UAT001,Session Lead/ Sign Off,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT001,Tester Mandatory,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT001,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT002,Session Lead/ Sign Off,Dina Izzean binti Tajudin,dina-izzean@epf.gov.my,JKEW-FO-Settlement and payment
+UAT,UAT002,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT002,Tester Mandatory,Nur Dalila Farihah binti Rosnan,nur-dalila@epf.gov.my,JKEW-FO-FINANCIAL ACCOUNTING
+UAT,UAT002,Tester Mandatory,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT002,Tester,W Norhasmah binti Wan Ismail,w-norhasmah@epf.gov.my,JPH
+UAT,UAT003,Session Lead/ Sign Off,Rosidawati Binti Hasan,rosida@epf.gov.my,JKEW-Finance Operation
+UAT,UAT003,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT003,Tester Mandatory,Nur Dalila Farihah binti Rosnan,nur-dalila@epf.gov.my,JKEW-FO-FINANCIAL ACCOUNTING
+UAT,UAT003,Tester Mandatory,Nurul Syuhada binti Mohd Yusop,nsyuhada@epf.gov.my,JKEW-FO-FA-Month End Closing
+UAT,UAT004,Session Lead/ Sign Off,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT004,Tester Mandatory,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT004,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT005,Session Lead/ Sign Off,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT005,Tester Mandatory,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT005,Tester Mandatory,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT005,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT005,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT006,Session Lead/ Sign Off,Nur Dalila Farihah binti Rosnan,nur-dalila@epf.gov.my,JKEW-FO-FINANCIAL ACCOUNTING
+UAT,UAT006,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT006,Tester Mandatory,W Norhasmah binti Wan Ismail,w-norhasmah@epf.gov.my,JPH
+UAT,UAT006,Tester Mandatory,Intan Yusrina Yasmin binti Md Yazid,intan-yusrina@epf.gov.my,JPH
+UAT,UAT007,Session Lead/ Sign Off,Muhammad Ikram bin Mohd Shah,muhammad-ikram@epf.gov.my,JPPB
+UAT,UAT007,Tester Mandatory,Muhammad Lokman bin Md Fautzie,muhammad-lokman@epf.gov.my,JPPB
+UAT,UAT007,Tester Mandatory,Nurzariah binti Solon,nurzariah@epf.gov.my,JPPB
+UAT,UAT007,Tester Mandatory,Siti Suhaila binti A.Rahman,siti-suhaila@epf.gov.my,JPPB
+UAT,UAT008,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT008,Tester Mandatory,Marlisa binti Omar,marlisa@epf.gov.my,JPH
+UAT,UAT008,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT008,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT009,Session Lead/ Sign Off,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT009,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT009,Tester Mandatory,Nur Dalila Farihah binti Rosnan,nur-dalila@epf.gov.my,JKEW-FO-FINANCIAL ACCOUNTING
+UAT,UAT010,Session Lead/ Sign Off,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT010,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT010,Tester Mandatory,Tengku Amirah Binti Tengku Yahya,tengku-amirah@epf.gov.my,JPH
+UAT,UAT010,Tester Mandatory,Siti Khadijah binti Mohamed,mskhadijah@epf.gov.my,JPH
+UAT,UAT010,Tester,W Norhasmah binti Wan Ismail,w-norhasmah@epf.gov.my,JPH
+UAT,UAT011,Session Lead/ Sign Off,Rosidawati Binti Hasan,rosida@epf.gov.my,JKEW-Finance Operation
+UAT,UAT011,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT011,Tester Mandatory,Norzila binti Bakri,bnorzila@epf.gov.my,JKEW-FO-Settlement and payment
+UAT,UAT011,Tester Mandatory,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT012,Session Lead/ Sign Off,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT012,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT012,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT012,Tester Mandatory,Anisah binti Yusoff,yanisah@epf.gov.my,DSMD
+UAT,UAT013,Session Lead/ Sign Off,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT013,Tester Mandatory,Hanis Izzati binti Elias,hanis-izzati@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT013,Tester Mandatory,Muhammad Nassar bin Sanusi,muhammad-nassar@epf.gov.my,JKEW-FPA-Management Reporting
+UAT,UAT013,Tester Mandatory,Najwa Nabilah binti Zulkiflee,najwa-nabilah@epf.gov.my,JKEW-FPR-SR-Finance Reporting
+UAT,UAT014,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT014,Tester Mandatory,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT014,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT014,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT014,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT014,Tester,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT015,Session Lead/ Sign Off,Mohd Shah Rizal bin Sabli,ssrizal@epf.gov.my,JPPB
+UAT,UAT015,Tester Mandatory,Zuraiddi bin Jumai,jzuraiddi@epf.gov.my,JKEW-SDS-System Maintenance
+UAT,UAT015,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT015,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT016,Session Lead/ Sign Off,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT016,Tester Mandatory,Hanis Izzati binti Elias,hanis-izzati@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT016,Tester Mandatory,Muhammad Nassar bin Sanusi,muhammad-nassar@epf.gov.my,JKEW-FPA-Management Reporting
+UAT,UAT016,Tester Mandatory,Najwa Nabilah binti Zulkiflee,najwa-nabilah@epf.gov.my,JKEW-FPR-SR-Finance Reporting
+UAT,UAT017,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT017,Tester Mandatory,Marlisa binti Omar,marlisa@epf.gov.my,JPH
+UAT,UAT017,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT017,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT018,Session Lead/ Sign Off,Nur Dalila Farihah binti Rosnan,nur-dalila@epf.gov.my,JKEW-FO-FINANCIAL ACCOUNTING
+UAT,UAT018,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT018,Tester Mandatory,W Norhasmah binti Wan Ismail,w-norhasmah@epf.gov.my,JPH
+UAT,UAT019,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT019,Tester Mandatory,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT019,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT019,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT019,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT019,Tester,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT020,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT020,Tester Mandatory,Marlisa binti Omar,marlisa@epf.gov.my,JPH
+UAT,UAT020,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT020,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT021,Session Lead/ Sign Off,Siti Suhaila binti A.Rahman,siti-suhaila@epf.gov.my,JPPB
+UAT,UAT021,Tester Mandatory,Surenthiran a/l Rangasamy,surenthiran@epf.gov.my,JPPB
+UAT,UAT021,Tester Mandatory,Mohd Syaiful Azrein bin Husin,mohd-syaiful@epf.gov.my,DESD
+UAT,UAT021,Tester Mandatory,Muhammad Lokman bin Md Fautzie,muhammad-lokman@epf.gov.my,JPPB
+UAT,UAT022,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT022,Tester Mandatory,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT022,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT022,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT022,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT022,Tester,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT023,Session Lead/ Sign Off,Nur Dalila Farihah binti Rosnan,nur-dalila@epf.gov.my,JKEW-FO-FINANCIAL ACCOUNTING
+UAT,UAT023,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT023,Tester Mandatory,Norzila binti Bakri,bnorzila@epf.gov.my,JKEW-FO-Settlement and payment
+UAT,UAT023,Tester Mandatory,Hanis Izzati binti Elias,hanis-izzati@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT024,Session Lead/ Sign Off,Muhammad Nassar bin Sanusi,muhammad-nassar@epf.gov.my,JKEW-FPA-Management Reporting
+UAT,UAT024,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT024,Tester Mandatory,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT024,Tester Mandatory,Noor Safuraa binti Sharifudin,noor-safuraa@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT025,Session Lead/ Sign Off,Muhammad Nassar bin Sanusi,muhammad-nassar@epf.gov.my,JKEW-FPA-Management Reporting
+UAT,UAT025,Tester Mandatory,Nor Ashiera binti Yusoff,nor-ashiera@epf.gov.my,JKEW-FII-Insights Intelligence
+UAT,UAT025,Tester Mandatory,Hanis Izzati binti Elias,hanis-izzati@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT025,Tester Mandatory,Najwa Nabilah binti Zulkiflee,najwa-nabilah@epf.gov.my,JKEW-FPR-SR-Finance Reporting
+UAT,UAT026,Session Lead/ Sign Off,Rosidawati Binti Hasan,rosida@epf.gov.my,JKEW-Finance Operation
+UAT,UAT026,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT026,Tester Mandatory,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT026,Tester Mandatory,Nur Dalila Farihah binti Rosnan,nur-dalila@epf.gov.my,JKEW-FO-FINANCIAL ACCOUNTING
+UAT,UAT026,Tester,Muhammad Izzat Danish bin Mohd Nasran,muhammad-izzat-d@epf.gov.my,JKEW-FO-FA-Month End Closing
+UAT,UAT027,Session Lead/ Sign Off,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT027,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT027,Tester Mandatory,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT027,Tester Mandatory,Zuraiddi bin Jumai,jzuraiddi@epf.gov.my,JKEW-SDS-System Maintenance
+UAT,UAT027,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT028,Session Lead/ Sign Off,Najwa Nabilah binti Zulkiflee,najwa-nabilah@epf.gov.my,JKEW-FPR-SR-Finance Reporting
+UAT,UAT028,Tester Mandatory,Nor Ashiera binti Yusoff,nor-ashiera@epf.gov.my,JKEW-FII-Insights Intelligence
+UAT,UAT028,Tester Mandatory,Muhammad Nassar bin Sanusi,muhammad-nassar@epf.gov.my,JKEW-FPA-Management Reporting
+UAT,UAT028,Tester Mandatory,Hanis Izzati binti Elias,hanis-izzati@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT029,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT029,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT029,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT029,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT029,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT029,Tester,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT030,Session Lead/ Sign Off,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT030,Tester Mandatory,Abdul Kudus bin Abdul Muthalib,abdul-kudus@epf.gov.my,JKEW-FO-SP-AP&AP-Admin Payment
+UAT,UAT030,Tester Mandatory,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT030,Tester Mandatory,Mohd Azhar bin Abdul Razak,mohd-azhar@epf.gov.my,JPPB
+UAT,UAT030,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT031,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT031,Tester Mandatory,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT031,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT031,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT031,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT031,Tester,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT032,Session Lead/ Sign Off,Norzila binti Bakri,bnorzila@epf.gov.my,JKEW-FO-Settlement and payment
+UAT,UAT032,Tester Mandatory,Mohd Zaidi b Jamaludin,jmzaidi@epf.gov.my,JKEW-FO-SP-Rentas
+UAT,UAT032,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT032,Tester Mandatory,Nur Fatin Farhanah binti Mohd Aman,nur-fatin-a@epf.gov.my,JKEW-FPR-SP-Account Payable&Admin Payment
+UAT,UAT032,Tester,Hafizi bin Hassan,hhafizi@epf.gov.my,JKEW-FO-SP-AP&AP-Account Payable
+UAT,UAT033,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT033,Tester Mandatory,Marlisa binti Omar,marlisa@epf.gov.my,JPH
+UAT,UAT033,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT033,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT034,Session Lead/ Sign Off,Muhammad Nassar bin Sanusi,muhammad-nassar@epf.gov.my,JKEW-FPA-Management Reporting
+UAT,UAT034,Tester Mandatory,Nor Ashiera binti Yusoff,nor-ashiera@epf.gov.my,JKEW-FII-Insights Intelligence
+UAT,UAT034,Tester Mandatory,Hanis Izzati binti Elias,hanis-izzati@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT034,Tester Mandatory,Najwa Nabilah binti Zulkiflee,najwa-nabilah@epf.gov.my,JKEW-FPR-SR-Finance Reporting
+UAT,UAT035,Session Lead/ Sign Off,Norzila binti Bakri,bnorzila@epf.gov.my,JKEW-FO-Settlement and payment
+UAT,UAT035,Tester Mandatory,Mohd Zaidi b Jamaludin,jmzaidi@epf.gov.my,JKEW-FO-SP-Rentas
+UAT,UAT035,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT035,Tester Mandatory,Nur Fatin Farhanah binti Mohd Aman,nur-fatin-a@epf.gov.my,JKEW-FPR-SP-Account Payable&Admin Payment
+UAT,UAT035,Tester,Hafizi bin Hassan,hhafizi@epf.gov.my,JKEW-FO-SP-AP&AP-Account Payable
+UAT,UAT036,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT036,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT036,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT036,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT036,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT036,Tester,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT037,Session Lead/ Sign Off,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT037,Tester Mandatory,Zuraiddi bin Jumai,jzuraiddi@epf.gov.my,JKEW-SDS-System Maintenance
+UAT,UAT037,Tester Mandatory,Faezah bt Fakhir Khan,faezah@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT037,Tester Mandatory,Happyulanti binti Abd.Rashid,ryulanti@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT038,Session Lead/ Sign Off,Mohd Shah Rizal bin Sabli,ssrizal@epf.gov.my,JPPB
+UAT,UAT038,Tester Mandatory,Muhammad Lokman bin Md Fautzie,muhammad-lokman@epf.gov.my,JPPB
+UAT,UAT038,Tester Mandatory,Surenthiran a/l Rangasamy,surenthiran@epf.gov.my,JPPB
+UAT,UAT038,Tester Mandatory,Muhammad Ikram bin Mohd Shah,muhammad-ikram@epf.gov.my,JPPB
+UAT,UAT039,Session Lead/ Sign Off,Rosidawati Binti Hasan,rosida@epf.gov.my,JKEW-Finance Operation
+UAT,UAT039,Tester Mandatory,Nur Dalila Farihah binti Rosnan,nur-dalila@epf.gov.my,JKEW-FO-FINANCIAL ACCOUNTING
+UAT,UAT039,Tester Mandatory,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT039,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT039,Tester,W Norhasmah binti Wan Ismail,w-norhasmah@epf.gov.my,JPH
+UAT,UAT039,Tester,Nurul Syuhada binti Mohd Yusop,nsyuhada@epf.gov.my,JKEW-FO-FA-Month End Closing
+UAT,UAT040,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT040,Tester Mandatory,Nor Ashiera binti Yusoff,nor-ashiera@epf.gov.my,JKEW-FII-Insights Intelligence
+UAT,UAT040,Tester Mandatory,Hanis Izzati binti Elias,hanis-izzati@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT040,Tester Mandatory,Najwa Nabilah binti Zulkiflee,najwa-nabilah@epf.gov.my,JKEW-FPR-SR-Finance Reporting
+UAT,UAT041,Session Lead/ Sign Off,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT041,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT041,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT041,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT042,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT042,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT042,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT042,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT042,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT042,Tester,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT043,Session Lead/ Sign Off,Nurul Syuhada binti Mohd Yusop,nsyuhada@epf.gov.my,JKEW-FO-FA-Month End Closing
+UAT,UAT043,Tester Mandatory,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT043,Tester Mandatory,Faezah bt Fakhir Khan,faezah@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT043,Tester Mandatory,Hafizi bin Hassan,hhafizi@epf.gov.my,JKEW-FO-SP-AP&AP-Account Payable
+UAT,UAT044,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT044,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT044,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT044,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT045,Session Lead/ Sign Off,Mohd Shah Rizal bin Sabli,ssrizal@epf.gov.my,JPPB
+UAT,UAT045,Tester Mandatory,Muhammad Lokman bin Md Fautzie,muhammad-lokman@epf.gov.my,JPPB
+UAT,UAT045,Tester Mandatory,Noraini binti Muhammed,norainim@epf.gov.my,JKEW-FII-Management Operations
+UAT,UAT045,Tester Mandatory,Halimah Binti Abu Bakar,abhalimah@epf.gov.my,JPH
+UAT,UAT046,Session Lead/ Sign Off,Nurul Syuhada binti Mohd Yusop,nsyuhada@epf.gov.my,JKEW-FO-FA-Month End Closing
+UAT,UAT046,Tester Mandatory,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT046,Tester Mandatory,Faezah bt Fakhir Khan,faezah@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT046,Tester Mandatory,Hafizi bin Hassan,hhafizi@epf.gov.my,JKEW-FO-SP-AP&AP-Account Payable
+UAT,UAT047,Session Lead/ Sign Off,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT047,Tester Mandatory,Nor Ashiera binti Yusoff,nor-ashiera@epf.gov.my,JKEW-FII-Insights Intelligence
+UAT,UAT047,Tester Mandatory,Muhammad Nassar bin Sanusi,muhammad-nassar@epf.gov.my,JKEW-FPA-Management Reporting
+UAT,UAT047,Tester Mandatory,Najwa Nabilah binti Zulkiflee,najwa-nabilah@epf.gov.my,JKEW-FPR-SR-Finance Reporting
+UAT,UAT048,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT048,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT048,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT048,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT048,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT048,Tester,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT049,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT049,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT049,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT049,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT050,Session Lead/ Sign Off,Abdul Kudus bin Abdul Muthalib,abdul-kudus@epf.gov.my,JKEW-FO-SP-AP&AP-Admin Payment
+UAT,UAT050,Tester Mandatory,Ili Dayana bte Shaharuddin,ili-dayana@epf.gov.my,JKEW-FO-SP-AP&AP-Admin Payment
+UAT,UAT050,Tester Mandatory,Mohamad Saiful bin Bahari,bmsaiful@epf.gov.my,JKEW-FO-SP-AP&AP-Admin Payment
+UAT,UAT050,Tester Mandatory,Normaslina Binti Din,dmaslina@epf.gov.my,JKEW-FO-SP-AP&AP-Admin Payment
+UAT,UAT051,Session Lead/ Sign Off,Nurul Syuhada binti Mohd Yusop,nsyuhada@epf.gov.my,JKEW-FO-FA-Month End Closing
+UAT,UAT051,Tester Mandatory,Nurfarhanah binti Hussain,hfarhanah@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT051,Tester Mandatory,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT051,Tester Mandatory,Hafizi bin Hassan,hhafizi@epf.gov.my,JKEW-FO-SP-AP&AP-Account Payable
+UAT,UAT052,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT052,Tester Mandatory,Zuraiddi bin Jumai,jzuraiddi@epf.gov.my,JKEW-SDS-System Maintenance
+UAT,UAT052,Tester Mandatory,Faezah bt Fakhir Khan,faezah@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT052,Tester Mandatory,Happyulanti binti Abd.Rashid,ryulanti@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT052,Tester,Atma Suria binti Mokhtar,atma-suria@epf.gov.my,JKEW-FPR-Financial Planning & Analysis
+UAT,UAT053,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT053,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT053,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT053,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT053,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT053,Tester,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT054,Session Lead/ Sign Off,Nurul Syuhada binti Mohd Yusop,nsyuhada@epf.gov.my,JKEW-FO-FA-Month End Closing
+UAT,UAT054,Tester Mandatory,Arif Mohsin bin Mohd Yaakob,arif-mohsin@epf.gov.my,JKEW-FO-FA-ASET
+UAT,UAT054,Tester Mandatory,Faezah bt Fakhir Khan,faezah@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT054,Tester Mandatory,Hafizi bin Hassan,hhafizi@epf.gov.my,JKEW-FO-SP-AP&AP-Account Payable
+UAT,UAT055,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT055,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT055,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT055,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT056,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT056,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT056,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT056,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT056,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT056,Tester,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT057,Session Lead/ Sign Off,Mohd Shah Rizal bin Sabli,ssrizal@epf.gov.my,JPPB
+UAT,UAT057,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT057,Tester Mandatory,Muhammad Ikram bin Mohd Shah,muhammad-ikram@epf.gov.my,JPPB
+UAT,UAT057,Tester Mandatory,Surenthiran a/l Rangasamy,surenthiran@epf.gov.my,JPPB
+UAT,UAT058,Session Lead/ Sign Off,Nurul Syuhada binti Mohd Yusop,nsyuhada@epf.gov.my,JKEW-FO-FA-Month End Closing
+UAT,UAT058,Tester Mandatory,Najwa Nabilah binti Zulkiflee,najwa-nabilah@epf.gov.my,JKEW-FPR-SR-Finance Reporting
+UAT,UAT058,Tester Mandatory,Muhammad Nassar bin Sanusi,muhammad-nassar@epf.gov.my,JKEW-FPA-Management Reporting
+UAT,UAT059,Session Lead/ Sign Off,Sharini a/p Jayabala Krishnan,Sharini@epf.gov.my,JKEW-FPR-FPA-Budgeting & Cost Management
+UAT,UAT059,Tester Mandatory,Ahmad Yus Shahril Feezrie bin Yaacob,ahmad-yus@epf.gov.my,JPH
+UAT,UAT059,Tester Mandatory,Nurul Hidayah binti Mohamad Anuar,nurul-hidayah-c@epf.gov.my,DDSM
+UAT,UAT059,Tester Mandatory,Maryana binti Sedik,maryana@epf.gov.my,DSMD
+UAT,UAT060,Session Lead/ Sign Off,Fatimah Az-Zahra' binti Abdul Rahman,fatimah-az-zahra@epf.gov.my,JKEW-FPR-Statutory Reporting
+UAT,UAT060,Tester Mandatory,Nur Najmi Aainaa binti Jamudin,nur-najmi@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management
+UAT,UAT060,Tester Mandatory,Ameerah Najihah Binti Aidi Roslan,ameerah-najihah@epf.gov.my,JKEW-TTA-TAX
+UAT,UAT060,Tester Mandatory,Andi Auni Nadiah binti Nasta段n,andi-auni@epf.gov.my,JKEW-FPR-FPA-Management Reporting
+UAT,UAT060,Tester,Faiq Izzuddin bin Kamarudin,faiq-izzuddin@epf.gov.my,JKEW-SDS-MDMDA
+UAT,UAT060,Tester,Shahrul Firdaus bin Ahmad Sharifuddin,ssfirdaus@epf.gov.my,JKEW-SDS-MDMDA-Masterdata Management

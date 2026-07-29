@@ -1,0 +1,10 @@
+﻿ID,Parent,Link Name,Url,Visible?
+1,0,Fiori Login,https://ifamsqas.epf.gov.my/sap/bc/ui2/flp?saml2=disabled&sap-client=800&sap-language=EN#Shell-home,No
+2,0,IFAMS SAC,https://epf-sac-qas.ap11.analytics.cloud.sap/sap/fpa/ui/app.html#/story2,No
+3,0,Test Status Record,https://employees-provident-fund-board-cloudalm.jp10.alm.cloud.sap/launchpad#test-displayTestRunList,No
+4,0,Documents,,Yes
+5,4,Training Plan,https://epfgovmy.sharepoint.com/sites/IFAMSModernisationEPFxPwC/Shared%20Documents/General/C.%20Change%20Management%20(CM)/B.%20Engage%20and%20Enable/9.%20Training/UAT/IFAMS_UATSummary.xlsx,Yes
+6,4,IFAMS Experience,https://epfgovmy.sharepoint.com/sites/IFAMSModernisationEPFxPwC/Shared%20Documents/General/C.%20Change%20Management%20(CM)/B.%20Engage%20and%20Enable/IFAMS%20Experience/IFAMS%20Experience_Presentation.pptx,No
+7,0,PwC Support,,Yes
+8,7,Planner/ Session Support,mailto:nur.farhana.aqila.mesuan@pwc.com?subject=IFAMS%20UAT%2FCalendar%20Support,Yes
+9,7,Login Support,mailto:puteri.noor.farhana.suhaimi@pwc.com?subject=IFAMS%20UAT%2FLogin%20Support,Yes
