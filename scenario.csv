@@ -15,8 +15,8 @@ UAT,UAT002,REFX: Master Data + Master Data Report : Property Object,UAT002_REFX_
 UAT,UAT002,REFX: Master Data + Master Data Report : Property Object,UAT002_REFX_102,UAT_REFX_102 Create Property,
 UAT,UAT002,REFX: Master Data + Master Data Report : Property Object,UAT002_REFX_103,UAT_REFX_103 Create Rental Object,
 UAT,UAT002,REFX: Master Data + Master Data Report : Property Object,UAT002_REFX_300,UAT_REFX_300 Master Data Report,
-UAT,UAT003,REFX: Contract Management : Internal Lease,UAT003_REFX_203,UAT_REFX_203 Create Contract - Internal Lease,
-UAT,UAT003,REFX: Contract Management : Internal Lease,UAT003_REFX_207,UAT_REFX_207 Modify Contract - Internal Lease,
+UAT,UAT003,REFX: Contract Management : Internal Lease,UAT003_REFX_203,UAT_REFX_203 Create Contract - Internal Lease,https://employees-provident-fund-board-cloudalm.jp10.alm.cloud.sap/launchpad#test-displayTestCase?sap-app-origin-hint=&/manual/3b710d9b-b46f-4016-bb96-e902962c1c52/tab/content
+UAT,UAT003,REFX: Contract Management : Internal Lease,UAT003_REFX_207,UAT_REFX_207 Modify Contract - Internal Lease,https://employees-provident-fund-board-cloudalm.jp10.alm.cloud.sap/launchpad#test-displayTestCase?sap-app-origin-hint=&/manual/c745dd49-c421-4e84-b269-c471dcabeca7/tab/content
 UAT,UAT004,REP: SAC Report : Master Data + Financial Reporting 01,UAT004_R&D_100,UAT_R&D_100 Verify G/L Account Dimensions Hierarchies,
 UAT,UAT004,REP: SAC Report : Master Data + Financial Reporting 01,UAT004_R&D_101,UAT_R&D_101 Verify Financial Model (Dimensions & Measures),
 UAT,UAT004,REP: SAC Report : Master Data + Financial Reporting 01,UAT004_R&D_102,UAT_R&D_102 Verify Funds Model (Dimensions & Measures),
